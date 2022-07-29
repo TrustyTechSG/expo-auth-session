@@ -1,0 +1,18 @@
+{
+  "cli": {
+    "version": ">= 0.38.0"
+  },
+  "build": {
+    "base": {
+      "ios": {
+        "cocoapods": "1.11.2"
+      }
+    },
+    "development": {
+      "releaseChannel": "development",
+      "extends": "base",
+      "developmentClient": true,
+      "distribution": "internal"
+    }
+  }
+}
