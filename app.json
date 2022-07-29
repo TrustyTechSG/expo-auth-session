@@ -1,5 +1,6 @@
 {
   "expo": {
+    "jsEngine": "hermes",
     "name": "expo-auth-sesstion-build-error",
     "slug": "expo-auth-sesstion-build-error",
     "version": "1.0.0",
